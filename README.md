@@ -5,6 +5,9 @@ This analysis creates a portfolio of assets that is cointegrated and mean revert
 
 Cryptocurrenies are trading assets used in this analysis.  Namely, Bitcoin, Ethereum and Litcoin.
 
+## Notebook
+1. https://github.com/edgetrader/mean-reversion-strategy/blob/master/notebook/mean-reversion-strategy.ipynb
+
 ## Reference
 1. https://letianzj.github.io/cointegration-pairs-trading.html
 2. https://blog.quantinsti.com/johansen-test-cointegration-building-stationary-portfolio/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com
@@ -15,5 +18,3 @@ Cryptocurrenies are trading assets used in this analysis.  Namely, Bitcoin, Ethe
 7. https://medium.com/bluekiri/cointegration-tests-on-time-series-88702ea9c492
 8. https://medium.com/bluekiri/simple-stationarity-tests-on-time-series-ad227e2e6d48
 
-## Notebook
-1. 
